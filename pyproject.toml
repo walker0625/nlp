@@ -7,5 +7,12 @@ requires-python = ">=3.13"
 dependencies = [
     "jpype1>=1.6.0",
     "jupyter>=1.1.1",
+    "kiwi>=10.2.27",
+    "kiwipiepy>=0.21.0",
     "konlpy>=0.6.0",
+    "koreanize-matplotlib>=0.1.1",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
+    "wordcloud>=1.9.4",
 ]
